@@ -11,22 +11,22 @@ export class IntroClients extends Component {
         <div className="Intro-clients section">
             <OwlCarousel className="owl-theme" loop margin={10} autoplay={true} items={6} nav>
               <div class="item">
-                <img src="/images/fiverr.png" />
+                <img src="images/fiverr.png" alt=""/>
               </div>
               <div class="item">
-                <img src="/images/upwork.png" />
+                <img src="images/upwork.png" alt=""/>
               </div>
               <div class="item">
-                <img src="/images/html.png" />
+                <img src="images/html.png" alt=""/>
               </div>
               <div class="item">
-                <img src="/images/bootstrap.png" />
+                <img src="images/bootstrap.png" alt=""/>
               </div>
               <div class="item">
-                <img src="/images/react.png" />
+                <img src="images/react.png" alt=""/>
               </div>
               <div class="item">
-                <img src="/images/node.png" />
+                <img src="images/node.png" alt=""/>
               </div>
             </OwlCarousel>
         </div> 

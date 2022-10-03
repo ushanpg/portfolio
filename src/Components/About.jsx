@@ -27,7 +27,7 @@ export default function About() {
             </div>
             <div className='col-md-4'>
             <h4> My awesome services </h4>
-            <img src="/images/presenter.png" className='img-fluid' />
+            <img src="images/presenter.png" alt="" className='img-fluid' />
             </div>
 
             <div className='col-md-4 square'>    

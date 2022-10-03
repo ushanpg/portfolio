@@ -8,7 +8,7 @@ export default function Profile() {
             <div className='row'>
                 <h4 className='profile-heading'>The Profile</h4>
                 <div className='col-md-6 profile-body'>
-                    <img src="/images/profile.png" alt="profile-pic" className='img-fluid profile-pic'></img>
+                    <img src="images/profile.png" alt="profile-pic" className='img-fluid profile-pic'></img>
                 </div>
                 <div className='col-md-6 profile-desc square'>
                     <Typing desc="Hi...👋" wrapper="h4"/>
